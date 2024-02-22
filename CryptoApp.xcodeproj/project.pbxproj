@@ -21,6 +21,7 @@
 		08837D732B6C32B000AB8688 /* CoinRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08837D722B6C32B000AB8688 /* CoinRowView.swift */; };
 		08837D752B6C331000AB8688 /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08837D742B6C331000AB8688 /* PreviewProvider.swift */; };
 		08837D772B6C370200AB8688 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08837D762B6C370200AB8688 /* Double.swift */; };
+		08BC92392B87D54800E45B78 /* PriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BC92382B87D54800E45B78 /* PriceView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		08837D722B6C32B000AB8688 /* CoinRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRowView.swift; sourceTree = "<group>"; };
 		08837D742B6C331000AB8688 /* PreviewProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewProvider.swift; sourceTree = "<group>"; };
 		08837D762B6C370200AB8688 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
+		08BC92382B87D54800E45B78 /* PriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 			children = (
 				08837D672B6A626E00AB8688 /* HomeView.swift */,
 				08837D722B6C32B000AB8688 /* CoinRowView.swift */,
+				08BC92382B87D54800E45B78 /* PriceView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				08837D682B6A626E00AB8688 /* HomeView.swift in Sources */,
 				08837D512B6A5EED00AB8688 /* CryptoExchange.swift in Sources */,
 				08837D6C2B6A648400AB8688 /* CircleButtonView.swift in Sources */,
+				08BC92392B87D54800E45B78 /* PriceView.swift in Sources */,
 				08837D622B6A60E200AB8688 /* Color.swift in Sources */,
 				08837D6E2B6A695300AB8688 /* CircleButtonAnimationView.swift in Sources */,
 				08837D752B6C331000AB8688 /* PreviewProvider.swift in Sources */,
