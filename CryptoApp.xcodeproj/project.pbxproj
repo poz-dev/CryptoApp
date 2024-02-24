@@ -63,7 +63,6 @@
 		08837D442B6A5EED00AB8688 = {
 			isa = PBXGroup;
 			children = (
-				088849172B897AFB00FA95BB /* New Group */,
 				08837D6F2B6A6DB700AB8688 /* Models */,
 				08837D632B6A623300AB8688 /* Core */,
 				088186D82B718191001C4B39 /* Services */,
@@ -168,13 +167,6 @@
 				08837D702B6A6DCC00AB8688 /* CoinModel.swift */,
 			);
 			path = Models;
-			sourceTree = "<group>";
-		};
-		088849172B897AFB00FA95BB /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
