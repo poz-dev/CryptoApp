@@ -100,7 +100,7 @@ extension HomeView {
                 .frame(width: UIScreen.main.bounds.width / 3.5, alignment: .trailing)
         }
         .font(.caption)
-        .foregroundColor(.gray)
+//        .foregroundColor(.gray)
         .padding(.horizontal)
     }
 }
